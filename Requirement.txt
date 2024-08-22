@@ -1,0 +1,8 @@
+Flifcart search
+Login Page
+ create
+Read
+update
+delete
+put
+patch
